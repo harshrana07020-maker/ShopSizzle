@@ -1,0 +1,8 @@
+{
+  "name": "ShopSizzle",
+  "description": "An industry-standard premium fashion e-commerce store with AI-powered recommendations parented by Gemini, multi-language support (English, Gujarati, Hindi), advanced checkout with COD/UPI payments, order tracking, and a rich admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
